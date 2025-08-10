@@ -21,7 +21,7 @@ Welcome to **Form Studio App** — your friendly, dynamic form builder that lets
 ## 🧰 Tech Stack
 
 - ⚛️ React
-- 💙 TypeScript
+- 💙 TypeScript, Redux
 - 🎨 Material-UI (MUI)
 - 📦 localStorage for persistence
 
@@ -40,8 +40,8 @@ Make sure you have these installed:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/form-builder-app.git
-cd form-builder-app
+git clone https://github.com/your-username/form-craft-stdio.git
+cd form-craft-stdio
 
 # Install dependencies
 npm install
